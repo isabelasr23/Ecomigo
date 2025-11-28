@@ -1,0 +1,59 @@
+h1 {
+    color: #487A27;
+}
+
+.btn-cadastrar {
+    background-color: #76C740;
+    border-color: #76C740;
+    color: #ffffff;
+}
+
+.btn-cadastrar:hover {
+    background-color: #63B038;
+    border-color: #63B038;
+    color: #ffffff;
+}
+
+.btn-outline-custom {
+    color: #76C740;
+    border-color: #76C740;
+}
+
+.btn-outline-custom:hover {
+    color: #fff;
+    background-color: #76C740;
+    border-color: #76C740;
+}
+
+/* Styles for user/index.html form */
+.form-container {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h1 {
+    color: #487A27;
+}
+
+/* Override default Bootstrap primary button to match theme */
+.btn-primary {
+    background-color: #76C740;
+    border-color: #76C740;
+}
+
+.btn-primary:hover {
+    background-color: #63B038;
+    border-color: #63B038;
+}
+
+.card-body {
+    border-radius: 32px;
+}
+
+.user-main-card {
+    border: none; /* remove stroke */
+    border-radius: 30px; /* bordas */
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.12); /* box-shadow */
+}
