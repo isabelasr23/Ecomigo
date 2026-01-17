@@ -1,18 +1,19 @@
 # 🌱 Ecomigo
 
-O **Ecomigo** é um projeto acadêmico desenvolvido de forma interdisciplinar nas disciplinas de **Programação Orientada a Objetos**, **Engenharia de Software** e **Banco de Dados**.
+O **Ecomigo** é um projeto acadêmico interdisciplinar desenvolvido nas disciplinas de **Programação Orientada a Objetos**, **Engenharia de Software** e **Banco de Dados**.
 
-O projeto tem como objetivo aplicar, de forma prática, os conceitos estudados ao longo do período, integrando modelagem de sistema, implementação em Java e persistência de dados.
+O sistema foi construído utilizando **Spring Framework** e **Thymeleaf**, aplicando o padrão **MVC (Model–View–Controller)** para integrar backend, frontend e persistência de dados.
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-Desenvolver um sistema que permita praticar:
+Aplicar de forma prática os conceitos estudados em sala, por meio do desenvolvimento de um sistema web que envolva:
 - Modelagem orientada a objetos
-- Organização de um sistema seguindo boas práticas
-- Integração com banco de dados
-- Aplicação de conceitos de engenharia de software
+- Organização de um projeto seguindo boas práticas
+- Desenvolvimento backend com Java e Spring
+- Criação de interfaces web com Thymeleaf
+- Integração com banco de dados relacional
 
 ---
 
@@ -30,14 +31,21 @@ Desenvolver um sistema que permita praticar:
 - Classes e objetos
 - Encapsulamento
 - Construtores
-- Métodos
-- Relacionamento entre classes
+- Relacionamentos entre classes
 
 ### Engenharia de Software
 - Levantamento de requisitos
-- Organização do projeto
+- Organização em camadas
 - Separação de responsabilidades
 - Estruturação do código
+
+### Desenvolvimento Web (Spring + Thymeleaf)
+- Spring Boot
+- Arquitetura MVC
+- Controllers
+- Views com Thymeleaf
+- Templates HTML dinâmicos
+- Integração backend ↔ frontend
 
 ### Banco de Dados
 - Modelagem de dados
@@ -50,8 +58,13 @@ Desenvolver um sistema que permita praticar:
 ## 💻 Tecnologias Utilizadas
 
 - Java
-- Banco de Dados (PostgreSQL)
+- Spring Boot
+- Thymeleaf
+- HTML5
+- CSS3
 - SQL
+- Banco de Dados Relacional (ex: PostgreSQL ou MySQL)
+- Maven
 - IDE (IntelliJ / VS Code)
 
 ---
@@ -59,6 +72,7 @@ Desenvolver um sistema que permita praticar:
 ## 📌 Observações
 
 - Projeto desenvolvido com fins acadêmicos
-- O código reflete o aprendizado durante as disciplinas
-- Algumas funcionalidades podem estar em desenvolvimento ou serem aprimoradas futuramente
+- O código representa a aplicação prática dos conceitos estudados
+- O sistema pode ser expandido e refatorado futuramente
+
 
